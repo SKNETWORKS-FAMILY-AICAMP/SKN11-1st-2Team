@@ -1,6 +1,8 @@
 # 💚 We are SamSame!! 💚
 
 # 🏕️ 국내 캠핑카 현황
+![image](https://github.com/user-attachments/assets/7880bdf9-4d52-4bb6-8cbc-adff75fe9cde)
+
 
 # ✅ 프로젝트 필요성 
 # 1 특수차량의 증가와 데이터 관리 부족
