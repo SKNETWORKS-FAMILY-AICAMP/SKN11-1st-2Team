@@ -10,7 +10,10 @@
 ## 3 체계적인 정보 제공 시스템 필요 
 
 💻 Tech Stack (기술 스택)
-Streamlit|MySQL|BeautifulSoup4|Selenium
+<br/>
+<img src="https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
 ❗데이터베이스 (ERD)
 
