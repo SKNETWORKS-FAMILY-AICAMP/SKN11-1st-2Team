@@ -1,6 +1,53 @@
 # 💚 We are SamSame!! 💚
 
-# 🏕️ 국내 캠핑카 현황
+## **GitHub** 
+<div align="center">
+  <table width="100%">
+    <tbody>
+      <tr>
+        <td align="center" width="33%">
+          <a href="https://github.com/kimseoungji0801">
+            <img src="https://github.com/kimseoungji0801.png" width="120" height="120" alt="seoungji"><br>
+            <strong>김성지</strong>
+          </a>
+        </td>
+        <td align="center" width="33%">
+          <a href="https://github.com/Nadaeji">
+            <img src="https://github.com/Nadaeji.png" width="120" height="120" alt="jiyoon"><br>
+            <strong>나지윤</strong>
+          </a>
+        </td>
+        <td align="center" width="33%">
+          <a href="https://github.com/SOOSOO999">
+            <img src="https://github.com/SOOSOO999.png" width="120" height="120" alt="jungsoo"><br>
+            <strong>배정수</strong>
+          </a>
+        </td>
+        <td align="center" width="33%">
+          <a href="https://github.com/misong-hub">
+            <img src="https://github.com/misong-hub.png" width="120" height="120" alt="HyeSung"><br>
+            <strong>백미송</strong>
+          </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+## 🏕️ 국내 캠핑카 현황
+<table width="100%">
+  <tr>
+    <td align="center" valign="middle" width="50%">
+      <img src="./img/departures_2000-2023.png" height="230"/><br />
+      <small>출국자 (2000~2023)</small>
+    </td>
+    <td align="center" valign="middle" width="50%">
+      <img src="./img/departures_2014-2023.png" height="150"/><br />
+      <small>출국자 (2014~2023)</small>
+    </td>
+  </tr>
+</table>
+
 ![image](https://github.com/user-attachments/assets/7880bdf9-4d52-4bb6-8cbc-adff75fe9cde)
 ![image](https://github.com/user-attachments/assets/a4b0d270-c0a7-4057-8ca4-4f916d5f25b1)
 
