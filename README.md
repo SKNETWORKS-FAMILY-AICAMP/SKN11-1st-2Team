@@ -56,21 +56,19 @@
 
 ---
 ## 🏕️ 기술 스택
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" valign="middle">
-        <img src="https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="150"><br>
-      </td>
-      <td align="center" valign="middle">
-        <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="150"><br>
-      </td>
-      <td align="center" valign="middle">
-        <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="150"><br>
-      </td>
-    </tr>
-  </table>
-</div>
+<table width="100%">
+  <tr>
+    <td align="center" valign="middle" width="33%">
+      <img src="https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="300"/><br />
+    </td>
+    <td align="center" valign="middle" width="33%">
+      <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="300"/><br />
+    </td>
+    <td align="center" valign="middle" width="33%">
+      <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="300"/>
+    </td>
+  </tr>
+</table>
 
 ---
 ## 🏕️ ERD
