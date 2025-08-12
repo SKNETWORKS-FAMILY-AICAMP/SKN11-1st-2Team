@@ -83,37 +83,82 @@
   </table>
 </div>
 
+---
 ## 🏕️ Streamlit
 <div align="center">
-  <table width="100%" cellspacing="0" cellpadding="0">
-    <tr><td align="center">
-      <img src="./image/streamlit_home.png" width="900" alt="홈 페이지"><br />
-      <small>홈 페이지</small>
-    </td></tr>
-    <tr><td align="center">
-      <img src="./image/streamlit_현황.png" width="900" alt="현황 페이지"><br />
-      <small>캠핑카 등록 현황 페이지</small>
-    </td></tr>
-    <tr><td align="center">
-      <img src="./image/streamlit_파이차트.png" width="900" alt="시도별 특수목적차 비율 페이지"><br />
-      <small>시도별 특수목적차 비율 페이지</small>
-    </td></tr>
-    <tr><td align="center">
-      <img src="./image/streamlit_질문1.png" width="900" alt="질문 페이지"><br />
-      <small>질문 페이지</small>
-    </td></tr>
-    <tr><td align="center">
-      <img src="./image/streamlit_질문2.png" width="900" alt="질문 페이지 - 지역 선택"><br />
-      <small>질문 페이지 - 지역 선택</small>
-    </td></tr>
-    <tr><td align="center">
-      <img src="./image/streamlit_질문1.png" width="900" alt="질문 페이지 - 차종 선택"><br />
-      <small>질문 페이지 - 차종 선택</small>
-    </td></tr>
-    <tr><td align="center">
-      <img src="./image/streamlit_질문1.png" width="900" alt="질문 페이지 - 선택항목 반영"><br />
-      <small>질문 페이지 - 선택항목 반영</small>
-    </td></tr>
+  <table>
+    <tr>
+      <td align="center" valign="middle">
+        <img src="./image/streamlit_home.png" width="900" alt="홈 페이지"><br />
+        <small>홈 페이지</small>
+      </td>
+    </tr>
+  </table>
+</div>
+<br>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" valign="middle">
+        <img src="./image/streamlit_현황.png" width="900" alt="현황 페이지"><br />
+        <small>캠핑카 등록 현황 페이지</small>
+      </td>
+    </tr>
+  </table>
+</div>
+<br>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" valign="middle">
+        <img src="./image/streamlit_파이차트.png" width="900" alt="시도별 특수목적차 비율 페이지"><br />
+        <small>시도별 특수목적차 비율 페이지</small>
+      </td>
+    </tr>
+  </table>
+</div>
+<br>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" valign="middle">
+        <img src="./image/streamlit_질문1.png" width="900" alt="질문 페이지"><br />
+        <small>질문 페이지</small>
+      </td>
+    </tr>
+  </table>
+</div>
+<br>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" valign="middle">
+        <img src="./image/streamlit_질문2.png" width="900" alt="질문 페이지 - 지역 선택"><br />
+        <small>질문 페이지 - 지역 선택</small>
+      </td>
+    </tr>
+  </table>
+</div>
+<br>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" valign="middle">
+        <img src="./image/streamlit_질문1.png" width="900" alt="질문 페이지 - 차종 선택"><br />
+        <small>질문 페이지 - 차종 선택</small>
+      </td>
+    </tr>
+  </table>
+</div>
+<br> 
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" valign="middle">
+        <img src="./image/streamlit_질문1.png" width="900" alt="질문 페이지 - 선택항목 반영"><br />
+        <small>질문 페이지 - 선택항목 반영</small>
+      </td>
+    </tr>
   </table>
 </div>
 
