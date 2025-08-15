@@ -1,37 +1,23 @@
 # 💚 We are SamSame!! 💚
 
-## 🏕️ GitHub
+> **GitHub** 
 <div align="center">
-  <table width="100%">
-    <tbody>
-      <tr>
-        <td align="center" width="25%">
-          <a href="https://github.com/kimseoungji0801">
-            <img src="https://github.com/kimseoungji0801.png" width="120" height="120" alt="seoungji"><br>
-            <strong>김성지</strong>
-          </a>
-        </td>
-        <td align="center" width="25%">
-          <a href="https://github.com/Nadaeji">
-            <img src="https://github.com/Nadaeji.png" width="120" height="120" alt="jiyoon"><br>
-            <strong>나지윤</strong>
-          </a>
-        </td>
-        <td align="center" width="25%">
-          <a href="https://github.com/SOOSOO999">
-            <img src="https://github.com/SOOSOO999.png" width="120" height="120" alt="jungsoo"><br>
-            <strong>배정수</strong>
-          </a>
-        </td>
-        <td align="center" width="25%">
-          <a href="https://github.com/misong-hub">
-            <img src="https://github.com/misong-hub.png" width="120" height="120" alt="misong"><br>
-            <strong>백미송</strong>
-          </a>
-        </td>
-      </tr>
-    </tbody>
-  </table>
+<table width="80%" cellspacing="0" cellpadding="12" border="0">
+  <tbody>
+    <tr>
+      <td align="center" width="25%"><img src="https://github.com/kimseoungji0801.png" width="180" height="180" alt="김성지"></td>
+      <td align="center" width="25%"><img src="https://github.com/Nadaeji.png" width="180" height="180" alt="나지윤"></td>
+      <td align="center" width="25%"><img src="https://github.com/misong-hub.png" width="180" height="180" alt="백미송"></td>
+      <td align="center" width="25%"><img src="https://github.com/hyunmin6109.png" width="180" height="180" alt="이현민"></td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/kimseoungji0801"><strong>김성지</strong></a></td>
+      <td align="center"><a href="https://github.com/Nadaeji"><strong>나지윤</strong></a></td>
+      <td align="center"><a href="https://github.com/misong-hub"><strong>백미송</strong></a></td>
+      <td align="center"><a href="https://github.com/hyunmin6109"><strong>이현민</strong></a></td>
+    </tr>
+  </tbody>
+</table>
 </div>
 
 ---
